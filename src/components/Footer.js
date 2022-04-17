@@ -17,7 +17,7 @@ const Footer = () => {
         </p>
         <div className="footer-menu">
           <p>
-            Designed by &copy; <a href="#">Anand </a>
+            Designed by <a href="#">Anand </a>
           </p>
         </div>
       </div>
